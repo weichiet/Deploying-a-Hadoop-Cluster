@@ -1,5 +1,7 @@
-## Questions
+## Question
 Q: Which five days had the most hits to the main webpage?
+
+A: Last 5 rows of MapReduce output, sorted by the second column, the number of hits each day.
 
 | Date  | Number of Hits|
 |  :---:  |  :---: |
