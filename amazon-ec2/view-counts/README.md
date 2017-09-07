@@ -3,7 +3,7 @@ Suppose you want to know how view counts correlate with score, but only for post
 
 ## Question
 Q: What's the highest score and how many views did that post have?  
-A: The highest score was **1586**, with **169360** views.
+A: The highest score was 1586, with 169360 views.
 
 ## File
 `mapper.py`: mapper of this problem
