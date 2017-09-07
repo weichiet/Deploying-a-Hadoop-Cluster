@@ -7,10 +7,10 @@ This is a sort of normalized measure of love. It ranges from 1 (all the love) to
 
 ## Questions
 Q1: Which subreddit has the highest love index?  
-A: Random_Acts_Of_Amazon with 0.6775 love index.
+A: 'Random_Acts_Of_Amazon' with 0.6775 love index.
 
 Q2: Which subreddit has the lowest love index?  
-A: ukpolitics with -0.3603 love index.
+A: 'ukpolitics' with -0.3603 love index.
 
 ## Files
 `mapper.py`: mapper of this problem  
