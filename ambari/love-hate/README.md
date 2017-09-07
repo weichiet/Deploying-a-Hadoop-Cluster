@@ -1,7 +1,7 @@
 ## Subreddit Love Index
 Write a mapper and reducer that counts the words "love" and "hate" in comments and calculate what I'm calling the "love index" for each subreddit. The love index is the difference in love and hate counts, divided by the sum:
 
-![](./love_index.PNG)
+![](https://user-images.githubusercontent.com/30658373/30156346-fc798338-93f1-11e7-8006-dc366caf9a3f.png)
 
 This is a sort of normalized measure of love. It ranges from 1 (all the love) to -1 (too much hate), taking into account the total number of love and hate comments. This makes it so big subreddits with a bunch of comments are on the same scale as small subreddits.
 

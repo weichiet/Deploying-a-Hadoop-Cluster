@@ -1,5 +1,5 @@
 # Deploying a Hadoop cluster on Amazon EC2
-In this lesson, a small Hadoop cluster with 1 NameNode and 3 DataNodes was deployed on Amazon EC2. The clustes was used to analyze a dataset of posts from [superuser.com](http://superuser.com/), a StackExchange community.
+In this lesson, a small Hadoop cluster with 1 NameNode and 3 DataNodes was deployed on Amazon EC2. The clusters was used to analyze a dataset of posts from [superuser.com](http://superuser.com/), a StackExchange community.
 
 ## Dataset
 The dataset is an XML file which can ne downloaded [here](https://s3.amazonaws.com/content.udacity-data.com/courses/ud1000/data/Posts.xml). Python library [ElementTree](https://docs.python.org/3/library/xml.etree.elementtree.html) was used to parse the content of dataset.   
